@@ -1,0 +1,8 @@
+# Obsidian-specific files
+.obsidian/workspace.json
+.obsidian/workspaces.json
+.obsidian/workspace-mobile.json
+
+# Trash and system files
+.trash/
+.DS_Store
