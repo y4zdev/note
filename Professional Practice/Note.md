@@ -75,8 +75,10 @@ Objectives are specific end results that the company aims to achieve within a se
 ### Tactical goals
 - Goals set by and for middle managers of the organization for strategic business units.
 	Ex: Increase sales turn over 5% per year per 5 years (marketing)
-	  Develop computerized accounting system within 5 years within next 5 years "It department"
+	  Develop computerized accounting system within 5 years within next 5 years (It department)
 
 ### Operational objectives
 - Goal set by and for lower level managers.
-	Ex: 
+	Ex: decrease based 5% this year, (production)
+	   Computerized payroll system for Ryan branch this year (It)
+	   Provide training to all sales representatives 
