@@ -92,3 +92,67 @@ traceroute Trace route to destination
 	- switch(config)# `interface vlan 1` #'`int vlan 1` also work'
 	- switch(config-if)# `ip address 10.10.1.1 255.255.255.0` #'`ip addr 10.10.1.1 255.255.255.0`'
 	- switch(config-if)# `no shutdown` #'`no shut` also work'
+
+
+
+## Router
+Basic router configuration
+
+Verify the default router configuration
+1. Establish a console connection to R1 (1941 Router)
+	1. Choose a console cable from the available connections 
+	2. Click PC A and select RS232 port 
+	3. Click R1 and select console
+	4. Go-to PC A and then desktop tab and terminal
+	5. Press enter your now and to configure R1
+2. Enter privilege mode and examine the current configuration
+	Router> `enable`  #'can use both `enable` and `en` commands'
+
+Configure and Verify initial router configuration
+1. Configure the Initial setting on R1
+	1. Configure the R1 as host name
+	2. Configure motd text "Unauthorized access is strictly prohibited"
+	3. Encrypt all plain text passwords. Use Following passwords
+		1. Unencrypted : Cisco
+		2. Encrypt: it's a secret
+		3. Console: letmein
+2. Verify the Initial settings on r1
+3. Save the configuration file to NVRAM
+
+
+
+Connect Router to a local area network 
+
+| Device | Interface   | IP address      | Subnet mask     | Default gateway |
+| ------ | ----------- | --------------- | --------------- | --------------- |
+| R1     | G0/0        | 192.168.10.1    | 255.255.255.0   | N/A             |
+| R1     | G0/1        | 192.168.11.1    | 255.255.255.0   | N/A             |
+| R1     | S0/0/0(DCE) | 209.165.200.225 | 255.255.255.252 | N/A             |
+|        |             |                 |                 |                 |
+| R2     | G0/0        | 10.1.1.1        | 255.255.255.0   | N/A             |
+| R2     | G0/1        | 10.1.2.1        | 255.255.255.0   | N/A             |
+|        | S0/0/0(DCE) | 209.165.200.226 | 255.255.255.252 | N/A             |
+|        |             |                 |                 |                 |
+| PC1    | NIC         | 192.168.10.10   | 255.255.255.0   | 192.168.10.1    |
+| PC2    | NIC         | 192.168.11.10   | 255.255.255.0   | 192.168.11.1    |
+| PC3    | NIC         | 10.1.1.10       | 255.255.255.0   | 10.1.1.1        |
+| PC4    | NIC         | 10.1.2.10       | 255.255.255.0   | 10.1.2.1        |
+
+1. Lable all the IP address and network address
+2. Add IP address and default gateways to PC
+3. Add host names to all switches 
+4. Add host names to all routers 
+5. Connect relevant IP address to R1
+6. Ping PC 1 with PC 2 
+7. Connect relevant IP address to router 2
+8. Ping PC 3 with PC 4
+9. Connect R2 with R1
+10. Connect R1 with R2
+11. Try to connect PC 1 with PC 4
+12. Set the static route to R1
+13. Set the static route to R2
+14. Connect PC 1 and PC 4 
+
+
+
+
