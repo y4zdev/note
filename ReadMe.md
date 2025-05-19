@@ -44,7 +44,7 @@ Each subject has its own folder. Topics are broken down into Markdown files, per
 
 ## 📜 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE)
 
 ---
 
