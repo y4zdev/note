@@ -37,6 +37,7 @@ Each subject has its own folder. Topics are broken down into Markdown files, per
    ```bash
    git clone https://github.com/y4zdev/note.git
    ```
+   
 2. **Open the folder in Obsidian**:
    - In Obsidian, click **Open folder as vault** and select the cloned `note/` folder.
 3. **Start exploring!**
@@ -45,6 +46,7 @@ Each subject has its own folder. Topics are broken down into Markdown files, per
 ## 📜 License
 
 This project is licensed under the [MIT License](LICENSE)
+
 ---
 
 > Made with ❤️ by [y4zdev](https://github.com/y4zdev)
