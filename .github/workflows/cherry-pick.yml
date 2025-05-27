@@ -2,11 +2,11 @@ name: Cherry-pick to main on any branch push
 
 on:
   push:
-    branches: ["**"]  # Run on push to all branches
+    branches: ["**"]
 
 jobs:
   cherry-pick:
-    if: github.ref != 'refs/heads/main'  # Skip if the push is to main
+    if: github.ref != 'refs/heads/main'
     runs-on: ubuntu-latest
 
     steps:
@@ -33,5 +33,11 @@ jobs:
 
       - name: Cherry-pick commits from pushed branch
         run: |
-          git cherry-pick origin/$BRANCH_NAME..$BRANCH_NAME || echo "Cherry-pick failed"
-          git push https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }} main || echo "Push failed"
+          echo "COMMIT_HASH=$(git rev-parse origin/${BRANCH_NAME})" >> $GITHUB_ENV
+
+      - name: Cherry-pick commit to main with theirs strategy
+        run: |
+          git cherry-pick --strategy=recursive -X theirs $COMMIT_HASH
+
+      - name: Push changes to main
+        run: git push https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }} main
