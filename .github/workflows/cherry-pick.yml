@@ -1,0 +1,35 @@
+name: Cherry-pick full branch into main
+
+on:
+  push:
+    branches-ignore:
+      - main  # Ignore direct pushes to main
+
+jobs:
+  cherry-pick:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout the pushed branch
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Get current branch name
+        id: branch
+        run: echo "name=${GITHUB_REF#refs/heads/}" >> $GITHUB_OUTPUT
+
+      - name: Fetch main branch
+        run: git fetch origin main
+
+      - name: Check out main branch
+        run: git checkout main
+
+      - name: Cherry-pick all commits from pushed branch
+        run: |
+          git cherry-pick origin/${{ steps.branch.outputs.name }}..${{ steps.branch.outputs.name }} || echo "Cherry-pick failed"
+          git push origin main || echo "Push failed"
