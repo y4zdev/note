@@ -34,6 +34,12 @@ jobs:
       - name: cherry-pick main branch
         run: git cherry-pick $BRANCH_NAME 
 
+      - name: add files
+        run: git add . 
+
+      - name: add files
+        run: git commit -m "$BRANCH_NAME updated"
+
       - name: git push
         run: git push https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }} main
         
