@@ -31,15 +31,19 @@ jobs:
       - name: Checkout main branch
         run: git checkout main
 
-      - name: cherry-pick main branch
-        run: git cherry-pick $BRANCH_NAME 
+      - name: Get latest commit hash from pushed branch
+        id: commit_hash
+        run: |
+          echo "COMMIT_HASH=$(git rev-parse origin/${BRANCH_NAME})" >> $GITHUB_ENV
 
-      - name: add files
-        run: git add . 
+      - name: Cherry-pick commit to main
+        run: |
+          set -e
+          git cherry-pick $COMMIT_HASH || {
+            echo "Conflict detected during cherry-pick."
+            git cherry-pick --abort
+            exit 1
+          }
 
-      - name: add files
-        run: git commit -m "$BRANCH_NAME updated"
-
-      - name: git push
+      - name: Push changes to main
         run: git push https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }} main
-        
