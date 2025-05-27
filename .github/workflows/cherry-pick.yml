@@ -2,8 +2,7 @@ name: Cherry-pick branch into main
 
 on:
   push:
-    branches-ignore:
-      - main
+
 
 jobs:
   cherry-pick:
