@@ -31,15 +31,9 @@ jobs:
       - name: Checkout main branch
         run: git checkout main
 
-      - name: Check for new commits and cherry-pick
-        run: |
-          # Check for commits in pushed branch that main doesn't have
-          CHERRIES=$(git log --oneline origin/$BRANCH_NAME ^main)
-          if [ -z "$CHERRIES" ]; then
-            echo "No new commits to cherry-pick from $BRANCH_NAME to main."
-          else
-            echo "Cherry-picking commits from $BRANCH_NAME to main:"
-            echo "$CHERRIES"
-            git cherry-pick origin/$BRANCH_NAME..$BRANCH_NAME || { echo "Cherry-pick failed"; exit 1; }
-            git push https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }} main || { echo "Push to main failed"; exit 1; }
-          fi
+      - name: cherry-pick main branch
+        run: git cherry-pick $BRANCH_NAME
+
+      - name: git push
+        run: git push https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }} main
+        
