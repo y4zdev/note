@@ -1,36 +1,37 @@
 name: Cherry-pick to main on any branch push
 
 on:
-  push:  # Trigger on push to any branch
-    branches: ["**"]
+  push:
+    branches: ["**"]  # Run on push to all branches
 
 jobs:
   cherry-pick:
-    if: github.ref != 'refs/heads/main'  # Avoid running when pushing to main
+    if: github.ref != 'refs/heads/main'  # Skip if the push is to main
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout full repo
+      - name: Checkout code
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          token: ${{ secrets.PAT_TOKEN }}
 
       - name: Set up Git user
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "y4zdev"
+          git config user.email "dev@y4z.dev"
 
-      - name: Get current branch name
+      - name: Get pushed branch name
         id: vars
         run: echo "BRANCH_NAME=${GITHUB_REF#refs/heads/}" >> $GITHUB_ENV
 
-      - name: Fetch main and all branches
+      - name: Fetch all branches
         run: git fetch origin main
 
-      - name: Checkout main
+      - name: Switch to main
         run: git checkout main
 
-      - name: Cherry-pick all commits from pushed branch
+      - name: Cherry-pick commits from pushed branch
         run: |
           git cherry-pick origin/$BRANCH_NAME..$BRANCH_NAME || echo "Cherry-pick failed"
-          git push origin main || echo "Push to main failed"
+          git push https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }} main || echo "Push failed"
