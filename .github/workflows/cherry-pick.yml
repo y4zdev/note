@@ -18,20 +18,28 @@ jobs:
 
       - name: Set up Git user
         run: |
-          git config user.name "y4zdev"
-          git config user.email "dev@y4z.dev"
+          git config user.name "Your Name"
+          git config user.email "your@email.com"
 
       - name: Get pushed branch name
         id: vars
         run: echo "BRANCH_NAME=${GITHUB_REF#refs/heads/}" >> $GITHUB_ENV
 
-      - name: Fetch all branches
+      - name: Fetch main branch
         run: git fetch origin main
 
-      - name: Switch to main
+      - name: Checkout main branch
         run: git checkout main
 
-      - name: Cherry-pick commits from pushed branch
+      - name: Check for new commits and cherry-pick
         run: |
-          git cherry-pick origin/$BRANCH_NAME..$BRANCH_NAME || echo "Cherry-pick failed"
-          git push https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }} main || echo "Push failed"
+          # Check for commits in pushed branch that main doesn't have
+          CHERRIES=$(git log --oneline origin/$BRANCH_NAME ^main)
+          if [ -z "$CHERRIES" ]; then
+            echo "No new commits to cherry-pick from $BRANCH_NAME to main."
+          else
+            echo "Cherry-picking commits from $BRANCH_NAME to main:"
+            echo "$CHERRIES"
+            git cherry-pick origin/$BRANCH_NAME..$BRANCH_NAME || { echo "Cherry-pick failed"; exit 1; }
+            git push https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }} main || { echo "Push to main failed"; exit 1; }
+          fi
