@@ -297,7 +297,7 @@ Network 6: 10.20.30.193/29 - 10.20.30.198/29
 ![[IMG20250522141434.jpg]]
 
 
-#### Q
+#### Question
 ![[IMG20250522142317.jpg]]
 How many subnets are in there topology ? 8
 Assign a IP address each an every topology using IP block 192.168.0.0/24
