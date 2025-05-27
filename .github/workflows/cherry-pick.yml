@@ -18,8 +18,8 @@ jobs:
 
       - name: Set up Git user
         run: |
-          git config user.name "Your Name"
-          git config user.email "your@email.com"
+          git config user.name "y4zdev"
+          git config user.email "dev@y4z.dev"
 
       - name: Get pushed branch name
         id: vars
@@ -32,7 +32,7 @@ jobs:
         run: git checkout main
 
       - name: cherry-pick main branch
-        run: git cherry-pick $BRANCH_NAME
+        run: git cherry-pick --continue $BRANCH_NAME 
 
       - name: git push
         run: git push https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }} main
