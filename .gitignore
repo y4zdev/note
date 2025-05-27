@@ -6,3 +6,9 @@
 # Trash and system files
 .trash/
 .DS_Store
+
+#for enr
+sem1/
+sem2/cyber/
+sem2/data_com/
+sem2/enr/
