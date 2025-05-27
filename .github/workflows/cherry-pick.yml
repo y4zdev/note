@@ -1,4 +1,4 @@
-name: Cherry-pick pushed branch into main
+name: Cherry-pick branch into main
 
 on:
   push:
@@ -8,32 +8,29 @@ on:
 jobs:
   cherry-pick:
     runs-on: ubuntu-latest
-    steps:
-      - name: Debug Info
-        run: |
-          echo "GITHUB_REF=$GITHUB_REF"
 
-      - name: Checkout
+    steps:
+      - name: Checkout code
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - name: Setup Git
+      - name: Set up Git config
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Get Branch Name
-        id: branch
-        run: echo "name=${GITHUB_REF#refs/heads/}" >> $GITHUB_OUTPUT
+      - name: Get branch name
+        id: vars
+        run: echo "BRANCH_NAME=${GITHUB_REF#refs/heads/}" >> $GITHUB_ENV
 
-      - name: Fetch main
-        run: git fetch origin main
+      - name: Fetch all branches
+        run: git fetch --all
 
-      - name: Checkout main
+      - name: Checkout main branch
         run: git checkout main
 
-      - name: Cherry-pick
+      - name: Cherry-pick all commits from pushed branch
         run: |
-          git cherry-pick origin/${{ steps.branch.outputs.name }}..${{ steps.branch.outputs.name }} || echo "Cherry-pick failed"
-          git push origin main || echo "Push to main failed"
+          git cherry-pick origin/$BRANCH_NAME..$BRANCH_NAME || echo "Cherry-pick failed"
+          git push origin main || echo "Push failed"
