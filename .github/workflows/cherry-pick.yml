@@ -32,7 +32,7 @@ jobs:
         run: git checkout main
 
       - name: cherry-pick main branch
-        run: git cherry-pick --continue $BRANCH_NAME 
+        run: git cherry-pick $BRANCH_NAME 
 
       - name: git push
         run: git push https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }} main
