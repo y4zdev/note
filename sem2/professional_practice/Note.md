@@ -460,5 +460,10 @@ Personal Values at Work
 | 3               |                                            |                                                                     |         |          |
 | 4               |                                            |                                                                     |         |          |
 | 5               |                                            |                                                                     |         |          |
+<<<<<<< HEAD
 
 #new
+=======
+|                 |                                            |                                                                     |         |          |
+#check and note missing  #
+>>>>>>> 6dbd48e (backup: 2025-05-28 02:28:50)
