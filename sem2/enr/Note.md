@@ -320,4 +320,14 @@ Network8 : 192.168.0.173/30 - 192.168.0.174/30
 ![[IMG_20250522_144240.jpg]]
 
 
-#NEWx
+### check this
+![[IMG20250527111939.jpg]]
+- use this for get another port access in another network(use for dhcp)
+
+
+![[IMG20250527103850.jpg]]
+- check the DHCP pool
+
+![[IMG20250101000809.jpg]]
+- DHCP config
+
