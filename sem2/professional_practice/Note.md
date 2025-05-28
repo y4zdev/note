@@ -619,3 +619,5 @@ Can be decide into 3 sections
 - Centralization
 - Organization culture
 - defecting channel
+
+#
