@@ -1,0 +1,196 @@
+{
+  "lastVersion": "3.1.16",
+  "aestheticStyle": "custom",
+  "positionStyle": "fixed",
+  "menuCommands": [
+    {
+      "id": "editor:go-start",
+      "name": "Go to first line",
+      "icon": "lucide-chevrons-up",
+      "mobileOnly": true
+    },
+    {
+      "id": "editor:go-end",
+      "name": "Go to last line",
+      "icon": "lucide-chevrons-down",
+      "mobileOnly": true
+    },
+    {
+      "id": "editor:toggle-bold",
+      "name": "Toggle bold",
+      "icon": "lucide-bold",
+      "hotkeys": [
+        {
+          "modifiers": [
+            "Mod"
+          ],
+          "key": "B"
+        }
+      ]
+    },
+    {
+      "id": "editor:toggle-italics",
+      "name": "Toggle italic",
+      "icon": "lucide-italic",
+      "hotkeys": [
+        {
+          "modifiers": [
+            "Mod"
+          ],
+          "key": "I"
+        }
+      ]
+    },
+    {
+      "id": "editor:toggle-strikethrough",
+      "name": "Toggle strikethrough",
+      "icon": "lucide-strikethrough"
+    },
+    {
+      "id": "editor:attach-file",
+      "name": "Insert attachment",
+      "icon": "lucide-paperclip"
+    },
+    {
+      "id": "editor:insert-embed",
+      "name": "Add embed",
+      "icon": "lucide-sticky-note"
+    },
+    {
+      "id": "editor:insert-wikilink",
+      "name": "Add internal link",
+      "icon": "bracket-glyph"
+    },
+    {
+      "id": "editor:toggle-highlight",
+      "name": "Toggle highlight",
+      "icon": "lucide-highlighter"
+    },
+    {
+      "id": "editor:toggle-checklist-status",
+      "name": "Toggle checkbox status",
+      "icon": "lucide-check-square",
+      "hotkeys": [
+        {
+          "modifiers": [
+            "Mod"
+          ],
+          "key": "l"
+        }
+      ]
+    },
+    {
+      "id": "editor:toggle-bullet-list",
+      "name": "Toggle bullet list",
+      "icon": "lucide-list"
+    },
+    {
+      "id": "editor:toggle-numbered-list",
+      "name": "Toggle numbered list",
+      "icon": "lucide-list-ordered"
+    },
+    {
+      "id": "editor:set-heading-1",
+      "name": "Set as heading 1",
+      "icon": "header-1"
+    },
+    {
+      "id": "editor:set-heading-2",
+      "name": "Set as heading 2",
+      "icon": "header-2"
+    },
+    {
+      "id": "editor:set-heading-3",
+      "name": "Set as heading 3",
+      "icon": "header-3"
+    },
+    {
+      "id": "editor:set-heading-4",
+      "name": "Set as heading 4",
+      "icon": "header-4"
+    },
+    {
+      "id": "editor:set-heading-5",
+      "name": "Set as heading 5",
+      "icon": "header-5"
+    },
+    {
+      "id": "editor:set-heading-6",
+      "name": "Set as heading 6",
+      "icon": "header-6"
+    },
+    {
+      "id": "editor:insert-table",
+      "name": "Insert table",
+      "icon": "lucide-table"
+    },
+    {
+      "id": "editor:insert-mathblock",
+      "name": "Insert math block",
+      "icon": "lucide-sigma-square"
+    },
+    {
+      "id": "editor:insert-codeblock",
+      "name": "Insert code block",
+      "icon": "lucide-code"
+    },
+    {
+      "id": "markdown:toggle-preview",
+      "name": "Toggle reading view",
+      "icon": "lucide-book-open",
+      "hotkeys": [
+        {
+          "modifiers": [
+            "Mod"
+          ],
+          "key": "E"
+        }
+      ]
+    },
+    {
+      "id": "editing-toolbar:editor-undo",
+      "name": "Undo",
+      "icon": "undo-glyph"
+    },
+    {
+      "id": "editor:redo",
+      "name": "Redo",
+      "icon": "lucide-redo-2",
+      "mobileOnly": true
+    }
+  ],
+  "followingCommands": [],
+  "topCommands": [],
+  "fixedCommands": [],
+  "mobileCommands": [],
+  "enableMultipleConfig": false,
+  "appendMethod": "workspace",
+  "shouldShowMenuOnSelect": false,
+  "cMenuVisibility": true,
+  "cMenuBottomValue": 4.25,
+  "cMenuNumRows": 25,
+  "cMenuWidth": 0,
+  "cMenuFontColor": "#2DC26B",
+  "cMenuBackgroundColor": "#d3f8b6",
+  "autohide": false,
+  "Iscentered": false,
+  "custom_bg1": "#FFB78B8C",
+  "custom_bg2": "#CDF4698C",
+  "custom_bg3": "#000000",
+  "custom_bg4": "#F0A7D88C",
+  "custom_bg5": "#ADEFEF8C",
+  "custom_fc1": "#D83931",
+  "custom_fc2": "#DE7802",
+  "custom_fc3": "#1553E2",
+  "custom_fc4": "#6106EE",
+  "custom_fc5": "#646A73",
+  "isLoadOnMobile": false,
+  "horizontalPosition": 0,
+  "verticalPosition": 59,
+  "formatBrushes": {},
+  "customCommands": [],
+  "viewTypeSettings": {},
+  "toolbarBackgroundColor": "#F5F8FA",
+  "toolbarIconColor": "#4A5568",
+  "toolbarIconSize": 18
+}
