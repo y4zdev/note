@@ -1,5 +1,8 @@
 {
   "enabledCssSnippets": [
     "theme"
-  ]
+  ],
+  "showRibbon": true,
+  "showViewHeader": true,
+  "theme": "system"
 }

@@ -460,3 +460,162 @@ Personal Values at Work
 | 3               |                                            |                                                                     |         |          |
 | 4               |                                            |                                                                     |         |          |
 | 5               |                                            |                                                                     |         |          |
+
+
+
+> ` Session 5 : 2025/05/28 `
+## Personal SWOT Analysis
+Making the Most of Your Talents and Opportunities.
+### Strengths
+- What advantages do you have that others don't have (for example, skills, certifications, education, or connections)?
+- What do you do better than anyone else?
+- What personal resources can you access?
+- What do other people see as your strengths?
+- Which of your achievements are you most proud of?
+- What values do you believe in that others fail to exhibit?
+- Are you part of a network that no one else is involved in? If so, what connections do you have with influential people?
+- Consider this from your own perspective, and from the point of view of the people around you. And don't be modest or shy - be as objective as you can.
+### Weaknesses
+- What tasks do you usually avoid because you don't feel confident doing them?
+- What will the people around you see as your weaknesses?
+- Are you completely confident in your education and skills training? If not, where are you weakest? What are your negative work habits (for example, are you often late, are you disorganized, do you have a short temper, or are you poor at handling stress?
+- Do you have personality traits that hold you back in your field? For instance, if you have to conduct meetings on a regular basis, a fear of public speaking would be a major weakness.
+- Again, consider this from a personal/internal T perspective and an external perspective. Do other people see weaknesses that you don't see? Do co-workers consistently outperform you in key areas? Be realistic-it's best to face any unpleasant truths as soon as possible.
+### Opportunities
+- What industries are you interested in? What do you know about it?
+- Do you have a network to hel you, or offer good advice? What trends (management or otherwise) do you see in your field, and how can you take advantage of them?
+- Is there a need in your company or industry that no one is filling?
+- Do your customers complain about something in your company? If so, could you create an opportunity by offering a solution?
+- Do you have specific skills (like a second language) that could help your career? Could you develop this further?
+
+### Threats
+- What obstacles do you currently face at work or in your planned career?
+- Does changing technology threaten your career?
+- Are any of your colleagues competing with you for projects or roles?
+- Is your job (or the demand for the things you do) changing? Does changing technology I threaten your position?
+- Could any of your weaknesses lead to threats?
+- Performing this analysis will often provide key information - it can point out what needs to be done and put problems into perspective.
+
+### TOWS Strategic Alternatives Matrix
+
+|                     | External Opportunities                                                                                 | External Threats                                                                   |
+| ------------------- | ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- |
+| Internal Strengths  | "Maxi-Maxi" -<br><br>Strategy Strategies that use strengths to maximize opportunities                  | "Maxi-Mini" <br><br>Strategy - Strategies that use strengths to minimize threats   |
+| Internal Weaknesses | "Mini-Maxi" <br><br>Strategy Strategies that minimize weaknesses by taking advantage of opportunities. | "Mini-Mini" Strategy<br><br>Strategies that minimize weaknesses and avoid threats. |
+
+# communication
+
+### Definition
+Communication means the transfer of information from the sender to the receiver with the information being understood by the receiver.
+### The communication process
+- Sender
+- Encoding
+- Message
+- Channel
+- Receiver
+- Decoding
+- Change
+- Feedback
+- Noise
+### Types of communication
+- Formal
+- Informal
+### Vertical communication
+- Any communication that moves up or down the chain of command
+### Horizontal/lateral communication
+- Communication between departments of an organization
+### Downward communication
+- Communication that flows from one level of group or organization to lower level. Downward communication is used by managers to,
+- Assign goals to subordinated
+- Provide job instruction
+- Inform policies and procedures
+- Point out problems that need attention
+- Offer feedback about performance.
+### Upward communication
+- Communication that flows from lower levels to higher level of hierarchy. The major purpose of upward communication is to supply information to upper levels about what is happening at the lower levels.this type of communication includes progress reports, suggestions explanation.
+### Functions of communication
+- To provide information
+- To command and instruct
+- To influence
+- To coordination
+### Importance of communication
+- To establish and disseminate goals of an organization
+- To develop plans for achievement of these goals.
+- To organize human and other resources in the most efficient and effective way.
+- To select, develop and appraise members of an organization
+- To lead and motivate people
+- To control the performance etc.
+### Qualities of a good communication
+- Simplicity
+- Clarity
+- Timeliness
+- Completeness
+- Confidentiality
+### How to be a good speaker ?
+- Use right language
+- Pronounce words appropriately
+- Speak thoughts, ideas, facts etc in a concise, logical way.
+- Manage voice quality appropriately
+- Make sure that content of your speech is appropriate
+- Avoid using offensive words.
+- Give an introduction at the outset.
+- Speak with right articulation
+
+### How to be a good speaker ?
+- Give a summary at the end
+- Show consideration for listeners.
+
+### How to be a good writer ?
+- Rule 1- Be targeted.
+- Rule 2- Be thorough
+- Rule 3- Be specific
+- Rule 4- Be brief
+- Rule 5- Be empathetic
+- Rule 6- Be Accurate in language
+- Rule 7- Be Purposive
+- Rule 8- Be powerful in layout.
+
+### Some possible uses of written communication
+- When there is a need of having a permanent record.
+- When the message to be delivered is not sensitive but more factual.
+- When there is time for you to wait for the receiver to read your message and to get his/her responses.
+- When there is a need of developing a relationship
+- When there is a possibility of getting and reading your written message for the receiver.
+- When the message is complex and having a lot of details.
+- When there is difficulty in reaching the receiver.
+
+### Non verbal Communication
+- Eye Contact
+- Interpersonal space
+- Facial expressions
+- Appearance
+- Touch
+- Postures/gestures
+- Time
+
+### Barriers to communication
+Can be decide into 3 sections
+- sender
+- Receiver 
+- Organization 
+
+#### Senders weaknesses 
+- Sender's poor communication skills
+- Sender's poor knowledge
+- sender's poor attitude and believers 
+- lack of planning to communication
+- emotional influence 
+
+#### Receiver's weaknesses 
+- poor communicate skill
+- poor attitude and believers 
+- poor knowledge
+- emotional influence
+- premature evaluation
+
+#### Organization weakness 
+- Large speak of control
+- Higher numbers of levels in the hierarchy
+- Centralization
+- Organization culture
+- defecting channel

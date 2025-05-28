@@ -1,8 +1,8 @@
 {
   "alwaysUpdateLinks": true,
   "mobileToolbarCommands": [
-    "editor:insert-wikilink",
     "editor:insert-embed",
+    "editor:insert-wikilink",
     "editor:insert-tag",
     "editor:attach-file",
     "editor:insert-table",
@@ -21,6 +21,11 @@
     "editor:unindent-list",
     "editor:undo",
     "editor:redo",
-    "editor:configure-toolbar"
-  ]
+    "editor:configure-toolbar",
+    "editor:go-end",
+    "editor:go-start",
+    "workspace:toggle-pin"
+  ],
+  "showInlineTitle": true,
+  "readableLineLength": false
 }
