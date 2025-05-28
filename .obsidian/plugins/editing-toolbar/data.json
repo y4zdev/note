@@ -62,7 +62,7 @@
       "icon": "bracket-glyph"
     },
     {
-      "id": "editor:toggle-highlight",
+      "id": "editing-toolbar:toggle-highlight",
       "name": "Toggle highlight",
       "icon": "lucide-highlighter"
     },
@@ -80,12 +80,12 @@
       ]
     },
     {
-      "id": "editor:toggle-bullet-list",
+      "id": "editing-toolbar:toggle-bullet-list",
       "name": "Toggle bullet list",
       "icon": "lucide-list"
     },
     {
-      "id": "editor:toggle-numbered-list",
+      "id": "editing-toolbar:toggle-numbered-list",
       "name": "Toggle numbered list",
       "icon": "lucide-list-ordered"
     },
@@ -168,7 +168,7 @@
   "shouldShowMenuOnSelect": false,
   "cMenuVisibility": true,
   "cMenuBottomValue": 4.25,
-  "cMenuNumRows": 25,
+  "cMenuNumRows": 24,
   "cMenuWidth": 0,
   "cMenuFontColor": "#2DC26B",
   "cMenuBackgroundColor": "#d3f8b6",
@@ -185,7 +185,7 @@
   "custom_fc4": "#6106EE",
   "custom_fc5": "#646A73",
   "isLoadOnMobile": false,
-  "horizontalPosition": 0,
+  "horizontalPosition": -4,
   "verticalPosition": 59,
   "formatBrushes": {},
   "customCommands": [],
