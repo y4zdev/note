@@ -331,3 +331,20 @@ Network8 : 192.168.0.173/30 - 192.168.0.174/30
 ![[IMG20250101000809.jpg]]
 - DHCP config
 
+## Static routing
+
+R(config)# `ip route NETID MASK NEXTHOP`
+R(config)# `ip route 10.10.0.0 255.255.255.0 192.168.1.2`
+
+
+### RIP(Routing Information Protocol) Routing
+R(config)# router rip
+R1(config-router)# `network NETID`
+R1(config-router)# `network 10.0.0.0`
+
+disable rip routing
+- R(config)# router rip
+
+### EIGRP Routing
+R(config)# `router eigrp NUMBER` (NUMBER = same group number for all routers)
+R(config)# `router eigrp 3`
