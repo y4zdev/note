@@ -1,8 +1,5 @@
 ![[IMG20250514151700.jpg]]
 
-
-##### virus/malware/wam
-##### nmap
-
-
-#testx
+#### completed 
+- virus/malware/wam
+- nmap
