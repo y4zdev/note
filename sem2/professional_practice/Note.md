@@ -773,4 +773,17 @@ Can be decide into 3 sections
 - Follows a clear logical structure
 - All sources of ideas and data are referenced
 - Consider all sides of an argument - for and against
-
+### Writing style
+- Use formal English - avoid slang
+- Use words you fully understand - keep simple
+   - "the augmenting workload" is correct, but "the increasing workload" is easier
+- Avoid abbreviation
+  - Such as: didn't, isn't, it's
+- Be impersonal (avoid 'I', 'you' or 'we')
+   - Bad: 'I suggest...'
+   - Good: 'It can be suggested...
+- Numbers are usually written in full (unless discussing numerical data)
+   - Bad: '4 ships'
+   - Good 'four ships'
+- Be objective - avoid personal, subjective words, such as:
+   - nice, wonderful, usual, natural
