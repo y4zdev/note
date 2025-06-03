@@ -620,4 +620,157 @@ Can be decide into 3 sections
 - Organization culture
 - defecting channel
 
-#
+### overcoming barriers
+*__Senders__*
+1. Select the appropriate channel
+2. Use the different channel
+3. Against the message to the reciver.
+4. Be mindful when communicating
+5. Use face to face communication
+6. Use direct simple language
+*__Receiver__*
+7. Be a good listener
+8. Be mindful when listing
+9. Follow up communication
+*__Organization__*
+10. Reduce span of management
+11. Cutting down the number of levels in hyrachey
+12. Decentralisation authority to smaller but accountable unity
+
+## Legal Regulations Related to IT and IS
+1. Interlectual property act
+2. Information and communicate technology act 
+3. Payment and system settlement act
+4. Electronic transaction act
+5. Payment devices fraud act
+6. Computer crimes act
+7. Right to information act
+
+
+
+# Academic writing 
+(Essay and reports)
+
+### What is the point of writing?
+- Assignments (essays or reports) require you to read, research, investigate, analyse and evaluate
+- Writing focuses and clarifies your thinking and reinforces your learning
+- Writing enables your tutors to assess how much you have learned and how well you can apply what you know
+
+### Types of writing - Assessments
+- Coursework - Formal style
+	- Essays
+	- Business reports
+- Dissertation-Very formal style
+- Exams - Clarity, speed
+
+### How to analyse the question or topic
+- Identify -
+	- The subject
+	- The instruction (what is required?)
+	- The key aspects
+	- What you have to look for
+	- Relevant sources of information
+		- library, web, lecture notes
+
+### The Approach to the essay or report
+- Clarify the task
+- Collect and record relevant information
+- Organize and plan
+- Reflect and evaluate
+- Write outline plan - rough draft
+- Work on your draft, update...
+- Write a final draft
+### Structure
+1. Essays
+   Three sections: Introduction; main body; conclusion
+2. Reports
+   More sections: Cover; executive summary or abstract; contents; introduction; main body; conclusions; recommendations; references; appendices
+
+
+### **` The Essay `**
+#### The introduction
+- Outline the question or topic
+- Identify main issues you will be exploring
+- Give a brief overall view of what the essay contains and in which order
+- Length
+   - About 10% of total word length
+#### The main body
+- Follow the structure you gave in the introduction
+- Build up arguments - each paragraph should:
+   - State you position
+     - Sum up your argument in brief, clear sentences
+   - Support your argument
+    - Present relevant evidence to back up your ideas
+        - Reference: quotation
+   - Develop the argument to the next point (linking)
+#### Evaluative, analytical writing
+- Compare and contrast - Evidence (sources)
+- Evaluate significance - What seems important or relevant to the argument (theme)
+- Consider and judge - What the evidence indicates
+- Show your criteria - How you made your judgement(s)
+- Get the 'right' balance - For and against
+#### Conclusion
+- Summarise the most important points in the main body
+- Explain how these points answer the question in the title
+- State why, in your opinion, you agree (or disagree) with the main issues raised by your evidence (essay only)
+- Length: Similar to introduction
+#### References (or bibliography)
+- Harvard style is compulsory
+- A-Z order
+
+
+### **` The Report `**
+(Preliminary pages)
+#### Cover
+- Professional looking
+#### Executive summary or Abstract
+- A summary of the whole report
+- The term 'executive summary' is used for business reports whereas 'abstract' is used for research reports
+- Length
+   - Usually 30-60% of an A4 sheet
+#### Contents
+- Lists chapters of report
+#### The introduction
+- Outline the question or topic
+- Identify main issues you will be exploring
+- Give a brief overall view of what the report contains and in which order
+- Length
+   - About 10% of total word length
+#### The Main body
+- Follow the structure you gave in the introduction
+- Build up arguments - each paragraph should:
+  - State your position
+    - Sum up your argument (story) in brief, clear sentence
+ - Support your argument
+    - Present relevant evidence to back up your ideas
+ - Reference: quotation
+   - Develop the argument to the next point (linking)
+#### Conclusion
+- Summarise the most important points in the main body
+- Explain how these points answer the question in the title
+- State why, in your opinion, you agree (or disagree) with the main issues raised by your evidence (essay only)
+- Length: Similar to introduction
+#### Recommendations
+- Suggestions for...
+   - Action
+   - Further research
+#### References
+- Not a chapter (or section) in a report
+- Harvard style is compulsory (except for SFM report only)
+- A-Z order
+#### Appendices
+- An appendix is data, often quite detailed, that is referred to in the main body but placed at the end of a report
+   - Longer tables
+   - Sections of articles
+   - Other relevant matter
+- Example of reference to an appendix in the main body:
+   - 70% of fisheries in the north had declined by 30% in 1986... (see appendix 2)..
+- Appendices must be properly Harvard referenced too (where appropriate)
+
+### Notes on academic 'style'
+- Descriptive, objective, well balanced
+- Argumentative, good evidence from a respected source
+- Follows a clear logical structure
+- All sources of ideas and data are referenced
+- Consider all sides of an argument - for and against
+
