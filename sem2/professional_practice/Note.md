@@ -780,10 +780,157 @@ Can be decide into 3 sections
 - Avoid abbreviation
   - Such as: didn't, isn't, it's
 - Be impersonal (avoid 'I', 'you' or 'we')
-   - Bad: 'I suggest...'
+   - ~~Bad~~: 'I suggest...'
    - Good: 'It can be suggested...
 - Numbers are usually written in full (unless discussing numerical data)
-   - Bad: '4 ships'
+   - ~~Bad~~: '4 ships'
    - Good 'four ships'
 - Be objective - avoid personal, subjective words, such as:
    - nice, wonderful, usual, natural
+- Be concise, edit out unnecessary words:
+   - ~~Bad~~: A man called John Smith said..."
+   - Good: 'Smith said..."
+- Be precise
+   - ~~Bad~~: Some writers state...-who? 
+   - Good: Jones and Wang (2009) state...'
+   - ~~Bad~~: At that time...-when? 
+   - Good: 'In 1867...'
+- Use continues prose
+- Bad: avoid a list of points...
+   1.
+   2.
+   3.
+- Use facts, opinion, arguments that can be checked against evidence = Good
+
+### How to maximise marks (cont.)
+- Use straight forward, concise language
+- Keep paragraphs as short as possible
+   - One main idea per paragraph
+   - Develop the 'argument" (theme)
+- Check referencing and reference list
+  - Be careful of plagiarising
+
+### Linking/transition words and phrases
+- Linking/transition words and phrases help you to connect ideas and sentences in writing your research. Such words bring clarity to your writing when you are introducing a contrasting point, add emphasis or agreement, and show a result or conclusion. Examples,
+- Effect/consequence/result-regarding, consequently, as a result, according to, therefore.
+- Emphasis- moreover, more evidently, additionally, in fact, indeed.
+- Example-for instance, for example.
+- Agreement-likewise, similarly
+- Counterpoint/disagreement on the other hand, nevertheless, despite, although, however
+- Sequence/order-first, second, third, next,finally
+- Give reason-due to, due to the fact, owing to, owing to the fact, since, because.
+- Conclusion/summary-in conclusion, to conclude, in a nutshell, in summary, to sum up, in short, in brief, in essence
+
+### Author prominent citations
+- Focus is given to the author name/s and is included as part of the sentence. It draws attention to the author /s in presenting findings in various studies
+
+### Information prominent citations
+- Priority is given to the information and author name/s are placed at the end of the sentence. This would be suitable in introducing a research area and in reviewing literature drawing from several studies.
+
+### Paraphrasing and direct quoting
+- Paraphrasing is where you take an idea from another source and express it in your own words without altering the original meaning while acknowledging the source.
+- Direct quoting is when you take a word, phrase, sentence, or even a paragraph from another source as it is and incorporate it in to your writing while acknowledging source.
+
+### Referencing: the Harvard system (Compulsory for UoG students - except for the SFM report)
+
+#### Main reasons for referencing
+- To acknowledge the person whose idea or words have been used, or referred to
+- To make it clear that the author is not trying to pretend somebody else's work as his or her own ('plagiarising' someone else's work)
+- To help readers to find the original texts or web pages to read themselves (in full)
+#### What do we need to reference?
+- The source of a particular theory, argument or viewpoint
+- For specific information, such as statistics, examples, or case studies
+- For direct quotations (reproducing the writer's exact words) - these must appear in 'quotation marks
+- For texts and electronic information which is paraphrased rather than quoted
+#### How do we reference?
+- ALL sources MUST be attributed to the original author
+   - Such as: ideas, data, figures, cables & methods
+- UoG Business School rule: Only the Harvard referencing system must be used
+   - Basic pattern: Author, (Date), Tule, Publisher or weburte
+- If we do not reference, we would be accused of plagiarism -the most serious academic offence
+   - If someone plagiarism they go before a plagiarism panel
+   - The penalties can be heavy
+#### Using sources
+- Sources of data, ideas and theories are the basis of evidence and can be used in a variety of ways
+   - "Quote" - using the exact words of an author
+   - Paraphrase - using your own words to express an author's ideas
+   - Summarise - listing the key ideas from an author's work
+   - Comment - giving your own thoughts on what an author has written
+
+#### The information needed for referencing a text
+- The name and initials of the author(s)
+- The title, in full
+- The year of publication
+- The edition
+- The location of the publisher
+- The name of publisher
+- Relevant page numbers
+- For journal articles - the name of the journal and the number of the volume
+- For electronic materials - the webpage address and date accessed
+
+#### Types of references
+1. In-text references (author, date)
+   - Placed within the main body of your writing
+2. Secondary references
+   - Used where one author has quoted another author
+3. List of References
+   - Full details of all sources listed at the end
+4. Bibliography
+   - Books and other sources which are relevant but have not been referred to directly (not used much in undergraduate work)
+
+![[IMG20250604095216.jpg]]
+
+#### In-text references ('citations')
+- A. Quotations
+  If you quote the actual words of a book, use quotation marks around the quote and at the end write:
+  author's surname -year of publication - page number (in brackets)
+- **Examples**:
+  "The matching, or accruals convention is very important in the calculation of profit" (Gowthorpe, 2005, p152)
+  or...
+  "The matching, or accruals convention is very important in the calculation of profit" (Gowthorpe, 2005:152)
+
+- B. Paraphrasing
+  When writing in your own words rather than quoting: author-date (usually no page number)
+- Examples
+  When referring to the author in the sentence -bAccording to Gowthorpe (2005) the accrual principle is vital for proper calculation of profit
+  or...
+  When not referring to the author in the sentence - The proper estimation of profit requires implementation of the accrual principle (Gowthorpe, 2005).
+#### Secondary references
+- Authors cited by other authors
+   - You may sometimes need to use a quotation or an idea from an author which you found quoted in a text book written by another author.
+   - Show the reference in this way using the word "cited"
+- Example:
+  Bryjne highlights that an international set of accounting standards needs to be consistent between competing companies (Bryjne, 1980 cited by Iqbal 2002 p222)
+- However some alternative ways are acceptable
+#### Electronic sources
+- WEB SITE: http://mobile.vnunet.com
+- Over 80% wanted to see common management information systems to support IFRS detail including budgets and forecasts while 69% said there was a need for greater contextual information in annual reports
+  - 1995-2006 all rights reserved VNU Business Publications
+- How would you reference a quotation from this web site?
+
+#### In-text references - websites
+- Websites are treated the same as book references
+- Use (Author, date)
+- Do not give the www address in the text
+- The internet is just another publishing medium and does not need special rules
+- If you cannot find an author name, give the company or institution name of the site
+- If there is no date of publication, give the year accessed
+
+- Using the VNU data given, in-text citation would be -
+   - "Over 80% wanted to see common management information systems to support IFRS detail including budgets and forecasts while 69% said there was a need for greater contextual information in annual reports"
+    (VNU Business Publications, 2005)
+- The full html address will appear at the end of your assignment in the list of references (later slide)
+
+![[IMG20250604101135.jpg]]
+
+
+#### The list of references ('References')
+At the end of your work collect your references together in a list - 'References'
+- Always include this at the end of your work (before appendices) 
+   - Although the 'References' section is not a chapter
+- Include all of your in-text references
+- Only list each source once
+- Use alphabetical (A-Z) order by author's family name
+- Make one list - do not separate books, articles and websites
+- Do not number the entries
+
