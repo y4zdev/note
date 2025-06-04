@@ -934,3 +934,71 @@ At the end of your work collect your references together in a list - 'References
 - Make one list - do not separate books, articles and websites
 - Do not number the entries
 
+#### References - Books (texts)
+- You will lose marks if you leave out some of your in-text references
+- You will lose marks if you put sources in the list you haven't referred to
+- The following format must be adopted:
+  Author, (Year), Book Title, City where published, Publisher
+
+- Example (for a book) - note use of italics
+   - Iqbal Z.M. (2002) International accounting. A global perspective Ohio: Thomson Learning 223-227
+
+#### List of references - Journal articles
+- The following format must be adopted:
+  Author, (Year), 'title of the article', Title of the journal, edition, page
+- Example (for a journal article)
+   - Wallace, R.S.O. and Collier, P. (1991) The "cash" in cash flow statements: A multi-country comparison, Accounting Horizons (December) 44-52
+
+#### List of references - Websites
+- The following format must be adopted:
+  Author, (Year), Title, Web address, [date of access]
+- Example -
+   - VNU Business Publications (2005) IFRS Update October 2005 http://mobile.vnunet.com [Accessed: 15th Aug 2011]
+
+#### More Harvard rules
+- If there are two authors
+   - Write them both in the order in the book/article Example:
+    - In text: Wallace and Collier (1991)
+    - In References: Wallace, R.S.O. and Collier, P., (1991)...
+   - If there are more than two authors
+    - In text: Use family name and 'et al' - Example: Anold et al, 2003 or use family name and 'and others' - Example: Amold and others, 2003
+    - In References: Example: Arnold, S., Huang, J. and Cui, J (2003)...
+   - If an author has published more than once in a year use 'a', then 'b' and so forth. Example:
+    - Marchington, M. and Wilkinson, A. (1993a) 'Waving or drowning in participation' Personnel Management, March p30-33
+    - Marchington, M. and Wilkinson, A. (1993b) People Management London: Institute of Personnel Management pp120-3
+
+#### References (or bibliography)
+The list of references at the end of your assignment should look like this:
+```
+References
+Iqbal, Z.M. (2002) International Accounting A Global Perspective Ohio: Thomson Learning pp..
+Saudagaran, S.M. (2004) International Accounting A User Perspective Ohio: Thomson Learning
+VNU Business Publications (2005) IFRS (2005) IFRS Update October 2005 http://mobile.vnunet.com [Accessed: 15th Aug 2006]
+Wallace, R.S.O. and Collier, P. (1991) "The "cash" in cash flow statements: A multi-country comparison Accounting Horizons (December) pp44-52
+```
+
+## How to do a verbal presentation
+We can devided the presentation into 3 sections 
+1. Before the presentation
+2. During the presentation
+3. After the presentation
+### Before the presentation
+1. Group has to prepare the PowerPoint slides professionally
+2. Font size should be readable to the audience 
+3. Don't put too much of animation
+4. Don't make sentences in power point slides
+5. Put the point form in the PowerPoint slide try to elderberry those points in the presentation
+6. Use capital letters where nessory 
+7. Separate heading and sub headings
+8. Use consistency concept
+9. Practice PowerPoint slides 2,3 times before the presentation
+### During the presentation
+1. Before starting the presentation greet the panel
+2. Don't be nerves
+3. Use eye contact facial expression body language to influence the audience 
+4. Be creative and inactive 
+5. Do the presentation group base way
+### After the presentation
+1. Answer the question carefully without nervous
+2. Thank God the audience listing to the presentation
+
