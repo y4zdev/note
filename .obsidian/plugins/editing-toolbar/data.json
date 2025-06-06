@@ -4,18 +4,6 @@
   "positionStyle": "fixed",
   "menuCommands": [
     {
-      "id": "editor:go-start",
-      "name": "Go to first line",
-      "icon": "lucide-chevrons-up",
-      "mobileOnly": true
-    },
-    {
-      "id": "editor:go-end",
-      "name": "Go to last line",
-      "icon": "lucide-chevrons-down",
-      "mobileOnly": true
-    },
-    {
       "id": "editor:toggle-bold",
       "name": "Toggle bold",
       "icon": "lucide-bold",
@@ -47,6 +35,11 @@
       "icon": "lucide-strikethrough"
     },
     {
+      "id": "editing-toolbar:toggle-highlight",
+      "name": "Toggle highlight",
+      "icon": "lucide-highlighter"
+    },
+    {
       "id": "editor:attach-file",
       "name": "Insert attachment",
       "icon": "lucide-paperclip"
@@ -62,11 +55,6 @@
       "icon": "bracket-glyph"
     },
     {
-      "id": "editing-toolbar:toggle-highlight",
-      "name": "Toggle highlight",
-      "icon": "lucide-highlighter"
-    },
-    {
       "id": "editor:toggle-checklist-status",
       "name": "Toggle checkbox status",
       "icon": "lucide-check-square",
@@ -80,14 +68,19 @@
       ]
     },
     {
-      "id": "editing-toolbar:toggle-bullet-list",
-      "name": "Toggle bullet list",
-      "icon": "lucide-list"
+      "id": "editor:insert-table",
+      "name": "Insert table",
+      "icon": "lucide-table"
     },
     {
-      "id": "editing-toolbar:toggle-numbered-list",
-      "name": "Toggle numbered list",
-      "icon": "lucide-list-ordered"
+      "id": "editor:insert-mathblock",
+      "name": "Insert math block",
+      "icon": "lucide-sigma-square"
+    },
+    {
+      "id": "editor:insert-codeblock",
+      "name": "Insert code block",
+      "icon": "lucide-code"
     },
     {
       "id": "editor:set-heading-1",
@@ -120,19 +113,26 @@
       "icon": "header-6"
     },
     {
-      "id": "editor:insert-table",
-      "name": "Insert table",
-      "icon": "lucide-table"
+      "id": "editing-toolbar:toggle-bullet-list",
+      "name": "Toggle bullet list",
+      "icon": "lucide-list"
     },
     {
-      "id": "editor:insert-mathblock",
-      "name": "Insert math block",
-      "icon": "lucide-sigma-square"
+      "id": "editing-toolbar:toggle-numbered-list",
+      "name": "Toggle numbered list",
+      "icon": "lucide-list-ordered"
     },
     {
-      "id": "editor:insert-codeblock",
-      "name": "Insert code block",
-      "icon": "lucide-code"
+      "id": "editor:indent-list",
+      "name": "Indent list item",
+      "icon": "lucide-indent",
+      "mobileOnly": true
+    },
+    {
+      "id": "editor:unindent-list",
+      "name": "Unindent list item",
+      "icon": "lucide-outdent",
+      "mobileOnly": true
     },
     {
       "id": "markdown:toggle-preview",
@@ -146,6 +146,18 @@
           "key": "E"
         }
       ]
+    },
+    {
+      "id": "editor:go-start",
+      "name": "Go to first line",
+      "icon": "lucide-chevrons-up",
+      "mobileOnly": true
+    },
+    {
+      "id": "editor:go-end",
+      "name": "Go to last line",
+      "icon": "lucide-chevrons-down",
+      "mobileOnly": true
     },
     {
       "id": "editing-toolbar:editor-undo",
@@ -168,7 +180,7 @@
   "shouldShowMenuOnSelect": false,
   "cMenuVisibility": true,
   "cMenuBottomValue": 4.25,
-  "cMenuNumRows": 24,
+  "cMenuNumRows": 26,
   "cMenuWidth": 0,
   "cMenuFontColor": "#2DC26B",
   "cMenuBackgroundColor": "#d3f8b6",
@@ -190,7 +202,7 @@
   "formatBrushes": {},
   "customCommands": [],
   "viewTypeSettings": {},
-  "toolbarBackgroundColor": "#F5F8FA",
-  "toolbarIconColor": "#4A5568",
-  "toolbarIconSize": 18
+  "toolbarBackgroundColor": "#1E1F21",
+  "toolbarIconColor": "#FFFFFF",
+  "toolbarIconSize": 16
 }
