@@ -934,3 +934,588 @@ At the end of your work collect your references together in a list - 'References
 - Make one list - do not separate books, articles and websites
 - Do not number the entries
 
+#### References - Books (texts)
+- You will lose marks if you leave out some of your in-text references
+- You will lose marks if you put sources in the list you haven't referred to
+- The following format must be adopted:
+  Author, (Year), Book Title, City where published, Publisher
+
+- Example (for a book) - note use of italics
+   - Iqbal Z.M. (2002) International accounting. A global perspective Ohio: Thomson Learning 223-227
+
+#### List of references - Journal articles
+- The following format must be adopted:
+  Author, (Year), 'title of the article', Title of the journal, edition, page
+- Example (for a journal article)
+   - Wallace, R.S.O. and Collier, P. (1991) The "cash" in cash flow statements: A multi-country comparison, Accounting Horizons (December) 44-52
+
+#### List of references - Websites
+- The following format must be adopted:
+  Author, (Year), Title, Web address, [date of access]
+- Example -
+   - VNU Business Publications (2005) IFRS Update October 2005 http://mobile.vnunet.com [Accessed: 15th Aug 2011]
+
+#### More Harvard rules
+- If there are two authors
+   - Write them both in the order in the book/article Example:
+    - In text: Wallace and Collier (1991)
+    - In References: Wallace, R.S.O. and Collier, P., (1991)...
+   - If there are more than two authors
+    - In text: Use family name and 'et al' - Example: Anold et al, 2003 or use family name and 'and others' - Example: Amold and others, 2003
+    - In References: Example: Arnold, S., Huang, J. and Cui, J (2003)...
+   - If an author has published more than once in a year use 'a', then 'b' and so forth. Example:
+    - Marchington, M. and Wilkinson, A. (1993a) 'Waving or drowning in participation' Personnel Management, March p30-33
+    - Marchington, M. and Wilkinson, A. (1993b) People Management London: Institute of Personnel Management pp120-3
+
+#### References (or bibliography)
+The list of references at the end of your assignment should look like this:
+```
+References
+Iqbal, Z.M. (2002) International Accounting A Global Perspective Ohio: Thomson Learning pp..
+Saudagaran, S.M. (2004) International Accounting A User Perspective Ohio: Thomson Learning
+VNU Business Publications (2005) IFRS (2005) IFRS Update October 2005 http://mobile.vnunet.com [Accessed: 15th Aug 2006]
+Wallace, R.S.O. and Collier, P. (1991) "The "cash" in cash flow statements: A multi-country comparison Accounting Horizons (December) pp44-52
+```
+
+## How to do a verbal presentation
+We can devided the presentation into 3 sections 
+1. Before the presentation
+2. During the presentation
+3. After the presentation
+### Before the presentation
+1. Group has to prepare the PowerPoint slides professionally
+2. Font size should be readable to the audience 
+3. Don't put too much of animation
+4. Don't make sentences in power point slides
+5. Put the point form in the PowerPoint slide try to elderberry those points in the presentation
+6. Use capital letters where nessory 
+7. Separate heading and sub headings
+8. Use consistency concept
+9. Practice PowerPoint slides 2,3 times before the presentation
+### During the presentation
+1. Before starting the presentation greet the panel
+2. Don't be nerves
+3. Use eye contact facial expression body language to influence the audience 
+4. Be creative and inactive 
+5. Do the presentation group base way
+### After the presentation
+1. Answer the question carefully without nervous
+2. Thank God the audience listing to the presentation
+
+# Professional And Ethical Issues in IT
+
+### What? Topics
+
+- Aspects of professional and ethical approaches to the management of Computing, Software Engineering and Information Systems within the current environment;
+- Applications of hardware and software
+- Information, data, privacy and civil liberties;
+- BYOD, mobile devices, fair use.
+- Professional approach and legal aspects to employment within the industry;
+- Social media, professional profiles, digital footprints.
+- Contemporary societal issues e.g. data retention, encryption, national security, net neutrality, copyright, IP.
+
+### Required Readings
+- A Gift of Fire: Social, Legal, and Ethical Issues for Computing Technology (5th Edition) by Sara Baase
+- Ethics for the Information Age (7th Edition) by Michael J. Quinn
+![[IMG_20250606_091609.jpg]]
+- Cyberethics: Morality and Law in Cyberspace (6th Edition) by Richard Spinello
+![[IMG_20250606_091807.jpg]]
+
+
+### What is the module about?
+
+#### Social Issues?
+- Information systems and computer technologies are used in society, for society, and by society.
+- Their social impact is widespread and profound
+- E.g...impact on work, communication, entertainment, medicine/health, transport, warfare
+- Implications for individuals, communities, societies?
+- What are the positive and negative aspects?
+- What are the benefits and gains?
+- What are the risks and losses?
+#### Ethical Issues?
+- If information systems bring social benefits, how do we decide what is "beneficial" and what is not?
+- How do IT professionals decide what is "the right thing" to do?
+- The design, the management and the use of information systems raise ethical issues...for IT professionals, managers, and the public
+- How do we identify and assess these issues?
+- What ethical principles might be involved?
+
+#### Professional Issues?
+- As future IT professionals, you will be working with information systems in various capacities
+- Understanding the implications of decisions, choices, actions, policies
+- Justifying decisions, actions, behaviour
+- What does it mean to be a "professional"?:-
+   - Adhering to professional codes of conduct?
+   - Behaving "ethically"? Doing the "right thing"?
+
+#### Legal Issues?
+- Behaving professionally also means:-
+   - Knowing the relevant legislation
+   - Complying with the Law in your professional practice
+- This module will help you to:
+   - Understand legal issues
+   - Understand the relationship between the "Law", "Ethics" and "Professionalism" (these are not always in harmony with each other)
+
+### Why? Rationale
+Relevance of this module to you:
+- Informing tomorrow's IT professionals
+- Raising awareness of your role as a future IT professional
+- Exploring issues you may well face in your careers
+- Ensuring the best use of technologies (ethical and socially responsible)
+- IT graduates need to be aware of these issues (British Computer Society)
+
+![[IMG20250606092542.jpg]]
+
+
+###### Activity 2:
+Get into groups of 3 or 4. Each group will be assigned one of the following fields of application, and should think about the social impact of ICT in that field:-
+- Higher Education
+- Law Enforcement
+- Communication
+- Banking/Finance
+- News Media
+- Health/Medicine
+- Warfare
+- The Home
+Within your assigned field, think of examples of how computer technologies have had "positive" and "negative" effects (or "advantages" and "disadvantages"). As a group, try to come up with at least with 2 positive and 2 negative effects. What underlying issu issues and questions are raised?
+
+### What is "Ethics"?
+- Most people have some idea of what is "ethical" and what is "unethical"....But what do these terms mean?
+- Ethics is a discipline concerned with:
+   - Moral duty and obligation
+   - Principles of conduct governing human behaviour
+   - Rules determining notions of "right" and "wrong"
+- "Ethics" are not the same as personal opinions or tastes
+- "Ethics" are founded on sound reasoning and rational principles
+
+### Ethical principles
+- Behaviour is informed by ethical principles
+	- "if you do X you are good ..."
+	- "if you do Y you are bad..."
+- What principles underlie behaviour X and behaviour Y?
+- Principles of 'good' behaviour (X) might include:-
+	- Respecting others
+	- Considering others as equal; Treating people fairly
+	- Keeping your word; Acting honestly
+	- Respecting others' property
+- Principles of 'bad' behaviour (Y)?...opposite of above?
+
+### Social Norms & Cultural Values
+- Social norms and cultural values also shape our ethical principles, and provide us with guidance
+- These are determined by the societies and communities in which we live, our religion, family upbringing, social class, age, peer groups, media, etc.
+- Ethical principles may therefore vary between societies and cultures, and within them
+- Are their universal ethical principles that most people would agree with?
+
+### Universal principles
+- Universal Declaration of Human Rights (United Nations)
+	- adopted by General Assembly of the UN [1948]
+- Formal expression of what many people believe to be 'right'
+- Ethical principles enshrined in the UDHR include:
+	- "All human beings are born free and equal in dignity and rights....Recognition of the inherent dignity and of the equal and inalienable rights of all members of the human family is the foundation of freedom, justice and peace in the world."
+
+### Universal principles
+Ethical principles enshrined in the UDHR (cont'd):
+- Everyone is entitled to all the rights and freedoms set forth:
+	- Life, liberty and security of person
+	- Privacy, honour and reputation
+	- To own property (and not be deprived of their property)
+	- Freedom of thought, conscience, religion, opinion and expression
+
+### Ethical Theories
+- Ethical theories attempt to explain why we think some actions are "good" and others "bad"
+- Tools for assessing issues and making decisions
+- Commonly used theories from the European philosophical tradition include:
+	- Deontological theories
+	- Consequentialist theories
+
+### Deontological theories
+- Concerned with moral duty ("deon" = duty)
+- Associated with Immanuel Kant
+- Actions are right or wrong in themselves, regardless of consequences
+	- Eg. killing, lying, cheating
+- There are no circumstances where such actions are ethically justify
+- Principles of universality, rationality
+- Problems with this approach?
+
+### Consequentialist theories
+- Actions are right or wrong depending on their consequences
+- Utilitarianism is a form of consequentialism, in which "good" actions are those which bring the greatest benefit to the greatest number of people
+- Problems with this approach?
+
+### Applying Ethical Theories
+- Ethical theories can be used to examine different arguments and possible courses of action
+- Example: "unauthorised access" to computer systems
+	- What if someone hacked into a computer network in order to expose information that was in the public interest?
+- What would be the deontological position on this?
+- How about a consequentialist or utilitarian position?
+
+### Computer Ethics
+The 10 commandments of computer ethics:
+1. Thou shalt not use a computer to harm other people.
+2. Thou shalt not interfere with other people's computer work.
+3. Thou shalt not snoop around in other people's computer files.
+4. Thou shalt not use a computer to steal.
+5. Thou shalt not use a computer to bear false witness.
+6. Thou shalt not copy or use proprietary software for which you have not paid.
+7. Thou shalt not use other people's computer resources without authorization or proper compensation.
+8. Thou shalt not appropriate other people's intellectual output.
+9. Thou shalt think about the social consequences of the program you are writing or the system you are designing.
+10. Thou shalt always use a computer in ways that ensure consideration and respect for your fellow humans.
+
+### Identifying Ethical Issues
+- Ethical issues arise when ethical principles are threatened
+- E.g. Ethical principle: "respect other people's property"
+	- Action: "accessing someone's computer system without their permission" (e.g. hacking, using spyware, etc.)
+- Some other key ethical principles:
+	- Right to privacy; right to freedom of expression
+	- Right of access to information (right to know)
+	- Fairness, justice, equality
+	- Honesty, integrity, openness, transparency
+	- Confidentiality, trust, consent
+	- Others?
+- Ethical issues are often contentious areas or dilemmas in which....
+	- The issues are not simply black or white
+	- There are "grey" areas
+	- There are no clear "right" or "wrong" answers
+	- There are opposing perspectives and points of view
+	- There are different approaches leading to different courses of action
+- Ethical issues are often framed as questions...
+	- Should a law firm be able to access data about the online activities of broadband customers if those customers are suspected of illegally downloading copyrighted material?
+
+### Evaluating ethical issues
+- Evaluating an ethical issue requires:
+	- Identifying the issue or question
+	- Who is affected? (stakeholders)
+	- What is at stake? What ethical principles are involved?
+	- Different perspectives and arguments
+	- Possible courses of action, outcomes and solutions
+- Importance of thinking through the issue and examining the options, rather than "following the crowd"
+- Importance of making decisions based on principles and sound reasons
+#### Required reading
+- A Gift of Fire: Social, Legal, and Ethical Issues for Computing Technology (4th Edition)
+	- Chapter 1.4: page 26
+#### Extra Reading
+- https://pagecentertraining.psu.edu/public-relations-ethics/introduction-to-public-relations-ethics/lesson-1/ethical-theories/
+- https://www.nordu.net/content/networking-ethics
+
+### The Law
+Professionals are expected to comply with the Law
+- Identifying and assessing legal issues requires some knowledge of the relevant legislation. For example:-
+	- laws governing computer misuse, intellectual property, data protection, etc
+For example, the Computer Misuse Act (UK) covers:
+- Unauthorised access to computer material
+- Unauthorised access with intent to commit further offences
+- Unauthorised modification of computer material
+Computing technologies and information systems must be designed to comply with the law
+https://www.legislation.gov.uk/ukpga/1990/18/contents
+
+
+### Ethics and the Law
+What is the relationship between ethics and the law? Are they the same?
+- Ethical principles inform the law in many cases
+	- E.g. Laws against killing, stealing property, slander and libel (attacking someone's reputation) etc.
+- Laws are similar to ethical principles but presented in a formal way, carrying sanctions
+- But are laws always ethical?
+- Laws may be ethical or unethical
+
+### Ethics and the Law
+4 possible relationships between Ethics and Law - actions/policies can be:
+- Ethical and Legal
+- Ethical but Illegal
+- Unethical but Legal
+- Unethical and Illegal
+Examples
+- While the Law is a good starting point, ethics goes beyond the Law. Acting within the law is the minimum
+- If there is no Law governing an action, this doesn't mean that the action is ethically acceptable (as in "it's not illegal, so it must be OK")
+
+### Professional Codes of Conduct
+Professional IT organisations provide guidelines and codes of conduct for their members and for the profession as a whole
+- British Computer Society and The Institution of Engineering and Technology are examples in the UK
+- IFIP Member Countries: http://www.ifip.org/
+- BCS code of conduct covers areas such as:
+	- Public interest; Duty to employers and clients
+	- Duty to profession; Professional competence and integrity
+
+### Codes of Conduct, law and ethics
+- There is no legal requirement to belong to a professional IT body in order to practice in the UK
+- But...IT professionals are required to have knowledge and understanding of the law, and to comply with it
+- Codes of conduct are informed by ethical principles
+- All IT professionals, if members of a professional body, are required to comply with a code of ethics - that is, to act ethically
+- Issues of accountability and moral responsibility
+
+### Professional Issues: Technology Development
+Technologies are developed for various reasons (including social, economic, political & military)
+- IT professionals play a key role in technology development
+- The decisions they make involve ethical choices
+	- Decisions about what to develop, and how to design it
+	- Decisions about user requirements, functions, etc
+	- Judgements about what is "important", and what is not
+- What problems should technologies solve?
+- What social needs should they meet?
+
+### Professional issues
+- What professional issues might be involved in:
+	- Designing a new computer game?
+	- Implementing a surveillance system in a secondary school?
+	- Developing software for unmanned military vehicles?
+	- Creating a new database of patient records for the health service?
+	- Designing a secure website for anonymous whistle-blowers
+- What social impacts might an information systems professional need to consider?
+- What will be the impact on society of the system?
+- Examples:
+	- Impact on work-life balance (always available?)
+	- Impact of games and other entertainment?
+	- Ability to share information on a social network?
+	- Using information systems to maintain and share health records?
+	- Capability of individuals and groups to communicate by mobile phone?
+	- Capability to broadcast/publish opinion and comments, broadcast and publish photos and videos?
+
+### Social and ethical issues raised
+- Example: GPS (global positioning systems)
+- Why developed?
+- Uses: mapping, navigation (e.g. SatNav), satellite surveillance, military target selection, military reconnaissance, espionage
+- Social issues: location monitoring and surveillance-by whom? of whom? for what purposes? The ubiquity and invisibility of surveillance. Are we safer, as a result?
+- How might these technologies be used or abused?
+- Ethical issues raised: privacy, transparency, openness, trust, security
+
+### Technology: Dual Use Dilemmas
+- Many technologies can be used for benefit or harm
+	- Being able to locate elderly or confused people who get lost seems a 'benefit'
+	- Being able to locate children who get lost or taken - seems a 'benefit'
+- Therefore, should the elderly and / or children be tagged? (RFID devices)
+- Social networks - good to keep in touch (or be bullied? Or looked at by employers/governments?)
+- What other ways could today's technologies be used beneficially, or harmfully?
+
+#### Extra reading
+Law
+- https://www.bestcomputersciencedegrees.com/lists/5-legal-and-ethical-issues-in-it/
+- https://resources.infosecinstitute.com/legal-issues-of-new-and-emerging-technologies/#gref
+
+Code of conduct
+- https://resources.workable.com/employee-code-of-conduct-company-policy#
+- https://i-sight.com/resources/18-of-the-best-code-of-conduct-examples/
+- https://www.business.qld.gov.au/running-business/employing/taking-on-staff/staff-code-conduct
+- https://www.ethics.org/resources/free-toolkit/code-of-conduct/
+
+#### Lineup today...
+- What we mean by "privacy"?
+- Why is it important?
+- Implications of ICT for privacy
+- Personal information and privacy
+- Social and ethical issues raised
+
+You may want to watch "Why Privacy Matters" - just over 15 minutes long - follow link available from http://www.snowdentreaty.org/(scroll down the web page)
+
+#### What is "Privacy"?
+- Privacy can mean many different things - such as?
+- Privacy is an essential element of freedom & autonomy why do you think that is?
+### Aspects of Privacy
+- Privacy can be about:
+	- Confidentiality (limiting the spread of information about yourself)
+	- Anonymity (being free from unwanted attention)
+	- Solitude (lack of proximity to others)
+- If "knowledge is power" then...
+	- ....the more other people know about us..
+	- the more power they have...and the less power we have
+	- Lack of privacy changes behaviour - meaning less 'free' and less autonomous (able to act independently without coercion)
+### Types of "Privacy"
+- What aspects of ourselves, our lives (social and work) do we want to be private?
+
+#### Categories of Privacy
+1. Bodily Privacy
+2. Territorial Privacy
+3. Communications Privacy
+4. Information Privacy
+
+- ICT has implications for all 4 categories
+- We will focus on 4. Information Privacy
+- At issue is the control of personal information-who we choose to give it to, and what they do with it?
+
+#### Who says Privacy is important?
+- The Universal Declaration of Human Rights
+  Article 12 states "No one shall be subjected to arbitrary interference with his privacy, family, home or correspondence, nor to attacks upon his honour and reputation. Everyone has the right to the protection of the law against such interference or attacks". [http://www.un.org/en/documents/udhr/index.shtml]
+
+- The European Convention on Human Rights
+  Article 8 ensures that everyone has the right to respect for his private and family life, his home and correspondence.
+
+- The Human Rights Act, 1998 (UK)
+  Article 8 upholds the right to privacy.
+
+#### Implications of ICT for privacy
+- Why/ how has ICT made a difference?
+- Capacity to collect, store, manipulate, share, interpret and publish personal information.....on a scale and in ways beyond anything we have known
+- Invisible collection of data - personal data, relationship data (friends/contacts), communication data (who we communicate with and how often), location data, hobbies/interests, food preferences, etc.
+
+Implications of ICT for privacy
+- Data mining
+- Data sharing, matching and profiling
+- Secondary use of personal information
+- Organisations holding our personal data?
+- E.g. Government departments, public records, supermarkets, healthcare providers, banks, police, insurance companies, marketing and credit-checking companies (Experian, Acxiom) and others.
+- Dataveillance (Data+Surveillance)
+- Data trails and digital footprints
+- Data retention of online activity (e.g. by ISPs)
+- Search engines (e.g. Google)
+	- Logging search queries, pages visited, etc
+- Surveillance and monitoring technologies
+	- CCTV, ANPR, scanning of emails, body scanning
+	- E.g. workplace monitoring of employee emails, browsing, computer activity, etc
+- Location tracking technologies
+	- GPS (Global Positioning System)
+	- RFID (Radio Frequency Identification)
+
+### Data collection: the benefits
+- Some data collection is necessary to provide government and commercial services. E.g:-
+	- Driving licences, car tax, etc.
+	- Social services: data-sharing, protecting children
+	- Health service (electronic patient records)
+- Free services in exchange for personal information (discounts from loyalty cards, ads from free email)
+- Workplace monitoring is necessary to prevent time-wasting, and provide legal protection for companies
+- Logging of search queries means improved results
+- Protecting citizens and providing security
+- Law enforcement (crime prevention and detection)
+- National security, counter-terrorism
+	- Information technologies enable intelligence to be provided to government and police to meet their responsibilities to protect citizens
+- These benefits justify the loss of some privacies
+- "If you have nothing to hide, then you have nothing to fear!"
+
+### Data collection: the risks
+- Who has access to personal data? How is it used?
+- Lack of public confidence in ability to protect personal data (against theft, loss, leaks)
+- Potential for misuse of personal data (E.g. health data)
+- Rights of organisations to hold personal information, or sell it to others without our knowledge or consent
+- Workplace monitoring can be seen as intrusive, invasive
+- How effective is surveillance and monitoring in maintaining a) law and order b) national security?
+- Concerns that profiling of citizens gives governments too much power (fears of a Big Brother society)
+- "If you have nothing to hide then you have nothing to fear"??
+- A desire for privacy does not imply wrong doing
+- Fears of prosecution, or persecution, of innocent people.
+- Privacy concerns about RFID and GPS (detailed information about past movements and current location)
+
+
+### Ethical issues
+Argument: privacy supports 'free' behaviour, freedom of thought, freedom to live life according to own personal principles... that is to have personal autonomy.
+```
+Personal autonomy is a fundamental ethical principle-without autonomy how could any individual make any choice? (ethical or otherwise)
+```
+Technologies with the capacity to track/monitor behaviour
+- Image or video recording technologies - CCTV, cameras fitted to cars (e.g. Google street cars, or cars that record illegal parking (e.g. London), or drones)
+- Tagging e.g. by radio frequency identification tags (RFID) example: in UK some criminals tagged rather than being in prison;
+- Smart card 'tagging': children in US given RFID badges (ID cards) to be tracked at school (see: epic.org); tags used to track animals;
+- Embedded tags (RFID): animals, humans (see e.g. Baja Beach Club, Barcelona - instead of cash for drinks*)
+	Ethical issues? data collection and usage, surveillance, privacy issues, Legal issues?
+- How to balance the needs for a) public security and b) personal privacy
+- How much privacy are we willing to give up for "free" services, convenience and security?
+- Issues of personal responsibility/awareness
+	- People willingly disclose information about themselves on the Internet
+- Obligations of organisations and IT professionals
+- Can there be "privacy" when so much personal data is publicly accessible/searchable?
+
+#### Hot topics
+- Big Data; Internet of Things; Government intelligence surveillance
+See the module reading list for relevant reading
+Also, referred to in these slides:
+- Leese, M., 2014 The new profiling: Algorithms, black boxes, and the failure of anti-discriminatory safeguards in the European Union. Security Dialogue, 2014, Vol.45 (5) 494-511. Sage Publications.
+- Vamosi, R. When Gadgets Betray Us: the Dark Side of Our Infatuation with New Technologies
+- A Gift of Fire: Social, Legal, and Ethical Issues for Computing Technology (4th Edition)
+	Chapter 2: page 47
+
+#### Extra Reading
+- https://www.termsfeed.com/blog/gdpr-compliance-update-privacy-policy/
+- https://www.privacypolicies.com/blog/gdpr-privacy-policy/
+- https://journalistsresource.org/studies/society/internet/data-digital-privacy-cambridge-analytica/
+
+## Social Media: Context
+
+- "Social Media" includes:-
+	- SNS, blogs, Twitter, wikis, content-sharing (video, music), virtual worlds, P2P
+- Web 2.0:-
+	- Database-driven, searchable websites
+	- Web-based applications ("cloud" models)
+	- 3rd party apps / platforms (many = open source)
+	- User-generated content, authoring capabilities
+	- Iterative content
+	- Real-time interactivity
+	- Web feed, syndication of content (e.g. via RSS)
+
+SNS: Forerunners
+- Networked computers for social communication is nothing new
+- Early Internet applications ("people to people"):
+	- Usenet, Listserv, bulletin boards, electronic information exchange, multi-user systems, groupware, email, etc
+- Forerunners of SNS:
+	- Geocities (1994), Classmates.com (1995), SixDegrees.com (1997), Friends Reunited (1999), Friendster (2002), MySpace (2003), Facebook (2004), YouTube (2005)
+### Latest figures
+See live statistics at: http://www.internetlivestats.com/
+
+Pew Research (US)
+- More broadly, the steady growth in adoption that social platforms have experienced in the United States over the past decade also appears to be slowing.
+- The shares of adults who say they use Facebook, Pinterest, Linkedin and Twitter are each largely the same as in 2016, with only Instagram showing an uptick in use during this time period. (There are no comparable 2016 phone survey data for YouTube, Snapchat, WhatsApp or Reddit.)
+https://www.pewresearch.org/fact-tank/2019/04/10/share-of-u-s-adults-using-social-media-including-facebook-is-mostly-unchanged-since-2018/
+### Who is interested in figures
+Marketing organisations - "93% of marketers use social media for business."
+According to their statistics:
+- "The fastest growing segment of social media users is now adults aged 45-54% (sic). 55% of this age group now have a profile on at least one social network"
+https://www.omnicoreagency.com/digital-marketing-statistics/
+### SNS: Features
+- The "profile" (self-description) + timeline
+- Public listing of "friends" (social graph)
+- Friend approval and confirmation tools
+- Communication tools (messaging, etc)
+- Privacy and visibility controls
+- User-generated content & add-on applications
+- "Networked communication infrastructure" [Castells, 2008, Communication Power]
+- Walled Gardens
+### SNS: Business Model
+- Relationship between SNS and advertising?
+- Niche marketing (targetted ads)
+- Behavioural advertising
+- Data gathering, tracking [click stream data, cookies]
+- Data analysis, profiling
+- Design implications, e.g. default privacy settings set to open
+
+### Human/Robot (inter) action?
+- Facebook has said it believes there are now more than 83 million illegitimate accounts on the social network.
+- Duplicate profiles - belonging to already registered users - made up 4.8% of its membership figure.
+- digital distribution firm Limited Press alleged that, based on its own analytics software, 80% of clicks on its advertisements within Facebook had come from fake users. In a post on its Facebook page, the company said: "Bots were loading pages and driving up our advertising costs."
+
+Ethical Issues
+- Blurring of "public" and "private" - implications for the user of social media, and often their friends and associates
+Opportunities for Deception:
+- Creating false accounts 
+	- Good? E.g. Use of honeypots trap e.g. paedophiles (see recent case 'computer-generated child' created by Dutch agency)
+	- Bad? E.g. Implications for identity (theft)
+- Implications for trust, credibility, responsibility?
+	- Information given in confidence?
+	- Information given in the expectation of non-sharing
+	- Information given to a trusted person -> relationship changes, becomes threatening
+### Ethical issues for the professions
+Legal profession
+Example: 'Friending' someone to get access to their social media page (e.g. a lawyer on a case asking a witness to 'friend' so the lawyer can have access to the site)
+Medical profession.
+Example: medical students discussing patients with friends online
+- It would be inappropriate to post informal, personal or derogatory comments about patients or colleagues on public internet forums
+#### Privacy
+Data retention (the unforgetting Internet)
+Future implications of past data (e.g. images, statements)
+- Right to be forgotten (EU debates)
+Data sharing and third party access
+- Right to give informed consent, transparency
+The privacy debate
+- Privacy expectations in the age of social media?
+### Professional and Legal Issues
+Legal obligations of SNS providers
+- Data protection; security; IPR; free speech
+- Liabilities and responsibilities
+- Compliance with subpoenas, court orders, police requests (profile data as "evidence")
+Professional issues for the IT professional
+- Design (interfaces, settings, algorithms)
+- Management issues (SNS at work, in education)
+- Checking policies-does the SNS code of practice and related policies (re: privacy, security, data protection) meet the IT professional Codes of Conduct?
+
+### Extra reading
+https://enveritasgroup.com/campfire/ethical-issues-in-content-and-social-media-marketing/
+https://personcenteredtech.com/2018/12/20/2018-top-5-social-media ethics-issues/
+https://study.com/academy/lesson/ethical-issues-in-internet-social-media-marketing.html
+https://www.uspacenetwork.com/top-5-legal-issues-in-social-media.html
+https://technology.findlaw.com/modern-law-practice/understanding-the-legal-issues-for-social-networking-sites-and.html
+http://www.digitalstrategyconsulting.com/codeofconduct/
+https://www.uea.ac.uk/hr/employee-information/policies/social-media-conduct
