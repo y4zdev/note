@@ -47,6 +47,7 @@ Each subject has its own folder. Topics are broken down into Markdown files, per
 
 This project is licensed under the [MIT License](LICENSE)
 ---
+
 > Made with ❤️ by [y4zdev](https://github.com/y4zdev)
 
 
